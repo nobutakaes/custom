@@ -1,23 +1,23 @@
 <resources>
     <!-- Buttons and general layout -->
     <string name="app_name" translatable="false">custom</string>
-    <string name="Reboot_to_TWRP">Reboot to TWRP</string>
-    <string name="Reboot_to_Install_GTX_Stock">Reboot to Install GTX_Stock</string>
-    <string name="Restore_Stock">Restore Stock</string>
-    <string name="Reboot_to_Install_lbdroid_Custom">Reboot to Install lbdroid Custom</string>
-    <string name="Install_Custom">Install Custom</string>
-    <string name="Verify_Recovery">Verify Recovery</string>
-    <string name="Console_Output">Console Output</string>
-    <string name="custom_Recovery_Maintenance">custom Recovery Maintenance</string>
-    <string name="Exit_without_Changes">Exit without Changes</string>
-    <string name="ROM_Utilities">ROM Utilities</string>
-    <string name="Waiting_for_user_action">Waiting for user action...</string>
+    <string name="Reboot_to_TWRP">Reinicia a TWRP</string>
+    <string name="Reboot_to_Install_GTX_Stock">Reinicia para instalar GTX_Stock</string>
+    <string name="Restore_Stock">Restaurar Stock ROM</string>
+    <string name="Reboot_to_Install_lbdroid_Custom">Reinicia para instalar lbdroid Custom</string>
+    <string name="Install_Custom">Instalar Custom</string>
+    <string name="Verify_Recovery">Verificar Recovery</string>
+    <string name="Console_Output">Salida de Consola</string>
+    <string name="custom_Recovery_Maintenance">Mantenimiento Custom Recovery</string>
+    <string name="Exit_without_Changes">Salir sin cambios</string>
+    <string name="ROM_Utilities">Utilidades de la ROM</string>
+    <string name="Waiting_for_user_action">Esperando acción del usuario...</string>
 
     <!-- application messages-->
-    <string name="Verify_current_user">Verify current user!</string>
-    <string name="gen_message_Console_Output">Console Output :</string>
-    <string name="Verifying_bundled_recovery_file_integrity">Verifying bundled recovery file integrity...</string>
-    <string name="Installing_Custom_Recovery">Installing Custom Recovery...</string>
-    <string name="Restoring_stock_recovery">Restoring stock recovery...</string>
-    <string name="Verifying_currently_installed_recovery">Verifying currently installed recovery...</string>
+    <string name="Verify_current_user">Comprueba el usuario actual!</string>
+    <string name="gen_message_Console_Output">Salida de Consola :</string>
+    <string name="Verifying_bundled_recovery_file_integrity">Verificando integridad del fichero de recuperación del paquete...</string>
+    <string name="Installing_Custom_Recovery">Instalando Custom Recovery...</string>
+    <string name="Restoring_stock_recovery">Restaurando stock recovery...</string>
+    <string name="Verifying_currently_installed_recovery">Verificando el recovery instalado actualmente...</string>
 </resources>
